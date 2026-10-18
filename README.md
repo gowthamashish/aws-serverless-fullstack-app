@@ -1,0 +1,1 @@
+# aws-serverless-fullstack-app
